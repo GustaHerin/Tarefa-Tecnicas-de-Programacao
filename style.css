@@ -1,0 +1,16 @@
+div{ 
+    color:rgb(76, 43, 226);
+   text-align: center;
+}
+
+img{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+footer{
+text-align: center;
+color: white;
+background-color: #111;
+padding: 20px;
+}
